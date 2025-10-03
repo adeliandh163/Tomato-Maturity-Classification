@@ -35,4 +35,22 @@ Methods
 
 ---
 
-## 📊 Example Output
+Tech Stack
+- MATLAB  
+- Image Processing Toolbox  
+- K-means Clustering  
+
+---
+
+How to Run
+1. Clone this repository.  
+2. Open `buahClassifierApp.m` in MATLAB.  
+3. Run the function → GUI will open.  
+4. Click Load Image and select a tomato image.  
+
+---
+
+Author
+Adelia Indah Wahyuni  
+Developed in 2024  
+
